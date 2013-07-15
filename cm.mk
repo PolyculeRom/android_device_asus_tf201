@@ -7,7 +7,7 @@ $(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := cm_tf201
+PRODUCT_NAME := poly_tf201
 PRODUCT_BRAND := asus
 PRODUCT_DEVICE := tf201
 PRODUCT_MODEL := Transformer Prime TF201
